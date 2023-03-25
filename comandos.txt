@@ -1,0 +1,10 @@
+
+
+
+pipenv install PyMySQL flask
+
+
+pipenv shell
+
+
+python server.py
